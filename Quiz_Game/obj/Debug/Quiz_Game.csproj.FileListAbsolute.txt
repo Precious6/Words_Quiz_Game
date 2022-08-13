@@ -1,0 +1,8 @@
+C:\Users\prgumede1\Desktop\SELENUIM\Quiz_Game\Quiz_Game\bin\Debug\Quiz_Game.exe.config
+C:\Users\prgumede1\Desktop\SELENUIM\Quiz_Game\Quiz_Game\bin\Debug\Quiz_Game.exe
+C:\Users\prgumede1\Desktop\SELENUIM\Quiz_Game\Quiz_Game\bin\Debug\Quiz_Game.pdb
+C:\Users\prgumede1\Desktop\SELENUIM\Quiz_Game\Quiz_Game\obj\Debug\Quiz_Game.csproj.AssemblyReference.cache
+C:\Users\prgumede1\Desktop\SELENUIM\Quiz_Game\Quiz_Game\obj\Debug\Quiz_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\prgumede1\Desktop\SELENUIM\Quiz_Game\Quiz_Game\obj\Debug\Quiz_Game.csproj.CoreCompileInputs.cache
+C:\Users\prgumede1\Desktop\SELENUIM\Quiz_Game\Quiz_Game\obj\Debug\Quiz_Game.exe
+C:\Users\prgumede1\Desktop\SELENUIM\Quiz_Game\Quiz_Game\obj\Debug\Quiz_Game.pdb
